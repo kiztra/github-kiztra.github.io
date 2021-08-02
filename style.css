@@ -1,0 +1,116 @@
+header{
+  width:900px;
+  height:300px;
+  position: relative;
+  color: #222;
+  font-family: 'Abril Fatface';
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+img{ 
+  
+  width:900px;
+  height:250px;
+}
+.cim{
+  width:600px;
+  height:200px;
+  position: absolute;
+  top: 120px;
+  left: 120px;
+  font-size: 35px;
+}
+.cim h1{
+  margin:0;
+}
+.cim h3{
+  margin:0;
+}
+ul {
+  color: #222;
+  list-style-type:square;
+  font-family: 'Josefin Sans';
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+h3{
+  margin-top:50px;
+  margin-bottom: 50px;
+  color: #222;
+  font-family: 'Josefin Sans';
+  text-transform:uppercase;
+  font-size:28px;
+  font-weight: bold;
+}
+h4{
+    margin:0;
+    color: #222;
+    font-family: 'Josefin Sans';
+  font-size: 23px;
+}
+p  {
+  margin-top:35px;
+  margin-bottom:45px;
+  color: #222;
+  font-family: 'Josefin Sans';
+  font-size:17px;
+}
+h5{
+  margin:0;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+blockquote::before {
+  content: '“';
+  padding-left:5px;
+  color: white;
+  font-family: "ariel";
+  font-size:70px;
+  margin:0;
+}
+blockquote{
+  position: relative;
+  margin:0;
+  height: 130px;
+  background: dimgrey;
+  
+ 
+  
+}
+.idezet{
+  position: absolute;
+  top:13px;
+ margin:0;
+ font-family: 'Abril Fatface';
+ font-size: 48px;
+ color: white; 
+ padding-left:60px;
+} 
+#csik{
+  padding-bottom:40px;
+  border-bottom: solid 3px black;
+}
+.idezet1{
+  position: absolute;
+  top:30px;
+ margin:0;
+ font-family: 'Abril Fatface';
+ font-size: 48px;
+ color: white; 
+ padding-left:50px;
+  
+}
+.eloszo  {
+  font-size: 19px;
+  font-family: 'Josefin Sans';
+}
+.eloszo p {
+  font-size: 20px;
+  font-family: 'Josefin Sans';
+}
